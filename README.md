@@ -1,6 +1,8 @@
-# portfolio_new
+# Portfolio
 
-A new Flutter project.
+Portfolio developed with Flutter Web.
+
+<img src="https://github.com/cagriaydin/portfolio_new/raw/master/screenshot.png" width="750">
 
 ## Getting Started
 
